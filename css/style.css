@@ -39,6 +39,7 @@ input.search{
     margin: 0px;
     padding: 0px;
     position: relative;
+    /*perspective: 20px*/
 }
 
 .suggestions li{
